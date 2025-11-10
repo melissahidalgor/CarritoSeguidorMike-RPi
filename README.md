@@ -37,4 +37,11 @@ Para el control de Hardware se utilizó la librería WiringPi permitió la manip
     * **Anti-Crashing (ToF)**: Si la distancia medida por el sensor VL53L0X es menor a 50mm, el carro detiene el avance y retrocede.
 
     * **Modo Búsqueda:** Si no se detecta el objeto por más de 20 segundos , el carro realiza un giro a la derecha para iniciar la búsqueda hasta que el objeto es detectado nuevamente.
+
+## 🎥 Video Explicativo
+
+[https://drive.google.com/file/d/1G1meEEWLdF-Nxf6JUZN0phEoZejRu9lK/view?usp=drivesdk](https://drive.google.com/file/d/1G1meEEWLdF-Nxf6JUZN0phEoZejRu9lK/view?usp=drivesdk)
   
+## 🖼️ Montaje
+
+![texto alternativo](Documentacion/Carrito.png)
